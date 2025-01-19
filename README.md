@@ -1,2 +1,15 @@
-# MyAppsPrivacyPolicy
-Privacy Policy
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>应用隐私条款</title>
+</head>
+<body>
+    <h1>应用隐私条款</h1>
+    <p>这里是应用隐私相关的详细条款。</p>
+    本应用完全单机，不需要注册，不需要上传任何资料，不需要收集用户数据。
+    相对的应用数据也都由手机本地存储和管理，无法迁移和恢复。
+    因此对数据完整性，开发者不承担责任。
+    希望大家能够喜欢，谢谢。
+</body>
+</html>
