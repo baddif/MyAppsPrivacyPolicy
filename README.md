@@ -1,0 +1,2 @@
+# MyAppsPrivacyPolicy
+Privacy Policy
